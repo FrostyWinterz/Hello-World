@@ -1,2 +1,2 @@
 # Hello-World
-Hello world!
+Finn is a pretty cool wacky guy
